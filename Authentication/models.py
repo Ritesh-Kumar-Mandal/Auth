@@ -12,3 +12,4 @@ class User(Base):
     email = Column(String)
     password = Column(String)
     role = Column(String, default='user')
+    is_active = Column(Boolean, default=True)
