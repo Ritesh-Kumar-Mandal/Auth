@@ -1,0 +1,14 @@
+fastapi
+fastapi-mail
+gunicorn
+passlib
+pydantic
+python-jose
+python-multipart
+SQLAlchemy
+uvicorn
+bcrypt
+pyotp
+pyqrcode
+pypng
+pyparsing
