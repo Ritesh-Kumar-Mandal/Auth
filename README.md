@@ -15,7 +15,7 @@ To generate the QR Code from the Base64 text(data) goto:- https://codebeautify.o
 
 ```sh
 git clone https://github.com/Ritesh-Kumar-Mandal/Auth.git
-cd Lifeopedia
+cd Auth
 py -m venv venv 
 source venv/Scripts/activate 
 pip3 install -r requirements.txt
